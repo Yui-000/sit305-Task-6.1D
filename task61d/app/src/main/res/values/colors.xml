@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 主题色 -->
+    <color name="primary">#FF6B8E23</color>
+    <color name="primary_light">#FF9ABF4D</color>
+    <color name="primary_dark">#FF3D5C00</color>
+    
+    <!-- 强调色 -->
+    <color name="accent">#FF2196F3</color>
+    <color name="accent_light">#FF6EC6FF</color>
+    <color name="accent_dark">#FF0069C0</color>
+    
+    <!-- 文本颜色 -->
+    <color name="text_primary">#FF212121</color>
+    <color name="text_secondary">#FF757575</color>
+    <color name="text_hint">#FFBDBDBD</color>
+    
+    <!-- 背景色 -->
+    <color name="background">#FFF5F5F5</color>
+    <color name="surface">#FFFFFFFF</color>
+    
+    <!-- 状态颜色 -->
+    <color name="success">#FF4CAF50</color>
+    <color name="error">#FFF44336</color>
+    <color name="warning">#FFFFC107</color>
+    
+    <!-- 其他 -->
+    <color name="divider">#FFE0E0E0</color>
+    <color name="selected">#FFE8F5E9</color>
+    <color name="unselected">#FFF5F5F5</color>
+    <!-- 新增基础色 -->
+    <color name="white">#FFFFFFFF</color>
+    <color name="black">#FF000000</color>
+    <color name="gray">#FF888888</color>
+    <color name="blue">#FF2196F3</color>
+</resources>
